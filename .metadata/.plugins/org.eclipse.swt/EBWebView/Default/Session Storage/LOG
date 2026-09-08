@@ -1,3 +1,2 @@
-2026/09/02-18:19:39.493 65a0 Reusing MANIFEST D:\Lecture\Web-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
-2026/09/02-18:19:39.493 65a0 Recovering log #3
-2026/09/02-18:19:39.494 65a0 Reusing old log D:\Lecture\Web-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+2026/09/07-09:22:09.429 60b8 Creating DB D:\Lecture\Web-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage since it was missing.
+2026/09/07-09:22:09.473 60b8 Reusing MANIFEST D:\Lecture\Web-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001

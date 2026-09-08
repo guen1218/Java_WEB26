@@ -77,3 +77,13 @@
 2026-09-02 09:19:38.570: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-02 09:19:38.570: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-02 09:52:48.192: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 00:22:08.721: [INFO] CurrentProfilePath: D:\Lecture\Web-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 00:22:08.721: [INFO] Profiles total count: 1
+2026-09-07 00:22:08.721: [INFO] Profile: name=프로필 1 path=D:\Lecture\Web-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-31T00:15:52.738Z
+2026-09-07 00:22:08.721: [INFO] LastUsedProfileDir: D:\Lecture\Web-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-07 00:22:08.721: [INFO] MostRecentlyActiveProfile: name=프로필 1 path=D:\Lecture\Web-workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-31T00:15:52.738Z
+2026-09-07 00:22:08.721: [INFO] OnDoneLoading sync enabled: 0
+2026-09-07 00:22:08.721: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-07 00:22:08.721: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-07 00:22:08.721: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-07 03:55:06.968: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
