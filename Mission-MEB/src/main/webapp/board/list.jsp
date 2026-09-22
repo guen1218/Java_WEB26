@@ -1,3 +1,4 @@
+<%@page import="org.apache.tomcat.jakartaee.commons.lang3.ArraySorter"%>
 <%@page import="kr.ac.kopo.board.vo.BoardVO"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -7,6 +8,9 @@
 	BoardVO b03 = new BoardVO(3, "배고프다", "홍길둥", "2026-09-07");
 	
 	BoardVO[] list = {b01, b02, b03};
+	
+	//공유영억 등록
+	pageContext.setAttribute("boardList", list);
 %>
 <!DOCTYPE html>
 <html>
@@ -30,7 +34,11 @@
 		<% for(int i=0; i<list.length; i++){ %>
 		<tr>
 			<td><%=list[i].getNo() %></td>
-			<td><%=list[i].getTitle() %></td>
+			<td><!-- /Mission-WEB/board/ -->
+				<a href="/Mission-WEB/board/detail.jsp?no=<%= list[i].getNo() %>">
+					<%=list[i].getTitle() %>
+				</a>
+			</td>
 			<td><%=list[i].getWriter() %></td>
 			<td><%=list[i].getRegDate() %></td>
 		</tr>
